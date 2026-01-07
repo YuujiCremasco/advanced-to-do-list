@@ -1,19 +1,21 @@
 # advanced-to-do-list
 
-Este é um projeto de lista de tarefas avançada desenvolvido para praticar e demonstrar habilidades em JavaScript Vanilla, manipulação do DOM e boas práticas de desenvolvimento web.
+This is an advanced to-do list project developed to practice and demonstrate skills in vanilla JavaScript, DOM manipulation, and web development best practices.
 
-🚀 Tecnologias Utilizadas
+🚀 Technologies Used
 
-HTML5: Estrutura semântica e acessível (com uso de Labels e ARIA).
-CSS3: Estilização moderna com foco em experiência do usuário.
-JavaScript (ES6+): Lógica de programação para as funcionalidades de CRUD.
-Font Awesome: Ícones para uma interface intuitiva.
+HTML5: Semantic and accessible structure (using Labels and ARIA).
 
-✨ Funcionalidades
+CSS3: Modern styling focused on user experience.
+JavaScript (ES6+): Programming logic for CRUD functionalities.
 
-Adicionar tarefas: Criação dinâmica de novos itens.
-Finalizar tarefas: Sistema de marcação para tarefas concluídas.
-Editar tarefas: Alteração de títulos de tarefas já existentes.
-Remover tarefas: Exclusão individual de itens da lista.
-Filtro e Busca (Em desenvolvimento): Organização e pesquisa de itens.
-Design Responsivo: Adaptado para diferentes tamanhos de tela.
+Font Awesome: Icons for an intuitive interface.
+
+✨ Features
+
+Add tasks: Dynamic creation of new items.
+Finish tasks: Marking system for completed tasks.
+Edit tasks: Changing the titles of existing tasks.
+Remove tasks: Individual deletion of items from the list.
+Filter and Search (Under development): Organization and search of items.
+Responsive Design: Adapted to different screen sizes.
